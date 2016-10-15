@@ -1,0 +1,27 @@
+{
+  "name": "billy",
+  "version": "0.0.1",
+  "description": "A chatbot to talk to you",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jwright/billy-da-fridge.git"
+  },
+  "keywords": [
+    "chat",
+    "bot",
+    "node"
+  ],
+  "author": "Glasshacks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jwright/billy-da-fridge/issues"
+  },
+  "homepage": "https://github.com/jwright/billy-da-fridge#readme",
+  "dependencies": {
+    "botkit": "^0.4.0"
+  }
+}
